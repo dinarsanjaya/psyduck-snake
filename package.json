@@ -1,0 +1,24 @@
+{
+  "name": "psyduck-snake",
+  "version": "1.0.2",
+  "description": "Classic Snake game for terminal by Psyduck",
+  "main": "index.js",
+  "bin": {
+    "psyduck-snake": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinarsanjaya/psyduck-snake.git"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "cli",
+    "psyduck"
+  ],
+  "author": "Psyduck",
+  "license": "MIT",
+ "dependencies": {
+  "keypress": "^0.2.1"
+ }
+}
